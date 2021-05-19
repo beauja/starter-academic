@@ -27,7 +27,7 @@ education:
     - course: BCompSci
       institution: La Trobe University
       year: 2017
-email: ""
+email: beauanasson@gmail.com
 superuser: true
 highlight_name: false
 ---
