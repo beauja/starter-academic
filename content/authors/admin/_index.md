@@ -1,5 +1,5 @@
 ---
-title: Beau Anasso
+title: Beau Anasson
 role: Undergraduate in Mathematical Physics
 avatar_filename: 71915497_10214191331247748_8583588378388201472_n.jpg
 bio: My research interests include dynamical systems and Clifford algebras.
