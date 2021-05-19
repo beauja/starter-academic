@@ -3,9 +3,8 @@ title: Beau Anasson
 role: Undergraduate in Mathematical Physics
 bio: My research interests include dynamical systems and Clifford algebras.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dynamical Systems
+  - Clifford Algebras
 social:
   - icon: envelope
     icon_pack: fas
